@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"blackjack.controller","l":"BlackjackController"},{"p":"blackjack.view","l":"BlackjackFrame"},{"p":"blackjack.controller","l":"BlackjackStateListener"},{"p":"blackjack.model","l":"Human"},{"p":"blackjack","l":"MainClass"},{"p":"blackjack.model","l":"Player"}]
