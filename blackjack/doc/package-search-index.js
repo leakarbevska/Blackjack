@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"blackjack"},{"l":"blackjack.controller"},{"l":"blackjack.model"},{"l":"blackjack.view"}]
