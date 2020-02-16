@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cartes.model","l":"Carte"},{"p":"cartes.model","l":"Deck"},{"p":"cartes.model","l":"Factory"},{"p":"cartes.view","l":"HiddenOfPlayersFrame"},{"p":"cartes.view","l":"ImagePanel"},{"p":"cartes.view","l":"ViewDeckHidden"},{"p":"cartes.view","l":"ViewDeckVisible"}]
